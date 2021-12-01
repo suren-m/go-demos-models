@@ -1,6 +1,6 @@
 package movies
 
-type struct Movie {  
+type Movie struct{  
   Title string 
 }
   
